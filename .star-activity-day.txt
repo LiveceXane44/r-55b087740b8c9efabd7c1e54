@@ -1,0 +1,1 @@
+activity-day:20778 claimed microsoft/TypeScript 2bfbeb0302c9
